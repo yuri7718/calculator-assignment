@@ -1,0 +1,35 @@
+body {
+    margin: 25px;
+}
+
+.container {
+    padding: 25px;
+    background-color: #eeeeee;
+}
+
+.col-12 {
+    padding: 25px;
+}
+
+.col-md-4 {
+    padding: 25px;
+}
+
+input[type=text] {
+    width: 70%;
+}
+
+#calculator-form {
+    margin: 25px;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.err-msg {
+    color: red;
+}
+
+#response {
+    margin: 25px;
+}
